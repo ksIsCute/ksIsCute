@@ -1,6 +1,6 @@
 # Hello! Im ks, aka ks#1000, father#0001, etc.
 [![Ks GitHub stats](https://github-readme-stats.vercel.app/api?username=ksIsCute)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksIsCute)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ksIsCute)](https://github.com/anuraghazra/github-readme-stats)
 ## I am a mainly python developer creating with discord.py's API.
 ### About Me:
 > **I was a lead developer for a bot called "Rocket" throughout March of 2020 - 2021 where development was discontinued.**
