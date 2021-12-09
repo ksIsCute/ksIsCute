@@ -13,3 +13,5 @@
 > **I edit VHS ARG videos under an alias that I will NOT be sharing (as its fun and I love being undiscovered hahaa)**
 > **I am a student, learning JavaScript (but still bad lmao)**
 > **I am creating [selfbots](https://github.com/ksIsCute/DestroyerSelfbot), [tutorials](https://github.com/ksIsCute/SelfbotTesting), [discord tools](https://github.com/ksIsCute/EmbedMassDM) and [discord bots](https://github.com/ksIsCute/Rocket)**
+## Need To Contact Me?:
+### You can contact me on discord at ks#1000 and on [socials.bio](https://socials.bio/ks)
