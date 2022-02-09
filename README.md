@@ -1,6 +1,6 @@
 # About Me:
-[![Ks GitHub stats](https://github-readme-stats.vercel.app/api?username=ksIsCute)](https://github.com/anuraghazra/github-readme-stats?theme=synthwave)
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ksIsCute)](https://github.com/anuraghazra/github-readme-stats?layout=compact)
+[![Ks GitHub stats](https://github-readme-stats.vercel.app/api?username=ksIsCute&theme=synthwave)](https://github.com/ksiscute)
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ksIsCute&layout=compact&langs_count=10)](https://github.com/ksiscute)
 ## I am a mainly python developer creating with discord.py's API.
 ## About Me:
 > **I was a lead developer for a bot called "Rocket" throughout March of 2020 - 2021 where development was discontinued. I am now working on a bot aalled [Mecha](https://mechadiscord.tk)**
