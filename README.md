@@ -1,6 +1,6 @@
 # About Me:
-[![Ks GitHub stats](https://github-readme-stats.vercel.app/api?username=ksIsCute)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ksIsCute)](https://github.com/anuraghazra/github-readme-stats)
+[![Ks GitHub stats](https://github-readme-stats.vercel.app/api?username=ksIsCute)](https://github.com/anuraghazra/github-readme-stats&theme=synthwave)
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ksIsCute)](https://github.com/anuraghazra/github-readme-stats&theme=synthwave&langs_count=10&layout=compact)
 ## I am a mainly python developer creating with discord.py's API.
 ## About Me:
 > **I was a lead developer for a bot called "Rocket" throughout March of 2020 - 2021 where development was discontinued.**
@@ -14,4 +14,5 @@
 > **I am a student, learning JavaScript, ruby, and rust (but still bad lmao)**
 > **I am creating [selfbots](https://github.com/ksIsCute/DestroyerSelfbot), [tutorials](https://github.com/ksIsCute/SelfbotTesting), [discord tools](https://github.com/ksIsCute/EmbedMassDM) and [discord bots](https://mechadiscord.tk)**
 ## Need To Contact Me?:
+![My Alt](https://dcbadge.vercel.app/api/shield/940289135074238594?theme=discord&logoColor=presence)
 ### You can contact me on discord and on [mecha support](https://mechadiscord.tk)
