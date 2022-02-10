@@ -15,4 +15,5 @@
 > **I am creating [selfbots](https://github.com/ksIsCute/DestroyerSelfbot), [tutorials](https://github.com/ksIsCute/SelfbotTesting), [discord tools](https://github.com/ksIsCute/EmbedMassDM) and [discord bots](https://mechadiscord.tk)**
 ## Need To Contact Me?:
 ![My Alt](https://dcbadge.vercel.app/api/shield/940289135074238594?theme=discord&logoColor=orange)
+![My Bot](https://dcbadge.vercel.app/api/shield/bot/930821149644963900?theme=discord&logoColor=red)
 ### You can contact me on discord and on [mecha support](https://mechadiscord.tk)
