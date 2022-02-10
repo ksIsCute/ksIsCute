@@ -1,4 +1,3 @@
-# About Me:
 [![Ks GitHub stats](https://github-readme-stats.vercel.app/api?username=ksIsCute&theme=synthwave)](https://github.com/ksiscute)
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ksIsCute&layout=compact&langs_count=10)](https://github.com/ksiscute)
 ## I am a mainly python developer creating with discord.py's API.
