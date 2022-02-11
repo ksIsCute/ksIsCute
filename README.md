@@ -1,8 +1,8 @@
 [![Ks GitHub stats](https://github-readme-stats.vercel.app/api?username=ksIsCute&theme=synthwave)](https://github.com/ksiscute)
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ksIsCute&layout=compact&langs_count=10)](https://github.com/ksiscute)
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ksIsCute&langs_count=10)](https://github.com/ksiscute)
 ## I am a mainly python developer creating with discord.py's API.
 ## About Me:
-> **I was a lead developer for a bot called "Rocket" throughout March of 2020 - 2021 where development was discontinued. I am now working on a bot aalled [Mecha](https://mechadiscord.tk)**
+> **I was a lead developer for a bot called "Rocket" throughout March of 2020 - 2021 where development was discontinued. I am now working on a bot called [Mecha](https://mechadiscord.tk)**
 > **I now code discord selfbots with a custom one coming out soon.**
 > **I used to work on websites with a man called King Of Quaccers, who I was very close with until my account was disabled.**
 > **I am a Canadian developer from Ontario.**
