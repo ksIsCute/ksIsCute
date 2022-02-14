@@ -11,7 +11,7 @@
 > **I used to code discord bots for moderation, games, utilities, and image editing!**
 > **I edit VHS ARG videos under an alias that I will NOT be sharing (as its fun and I love being undiscovered hahaa)**
 > **I am a student, learning JavaScript, ruby, and rust (but still bad lmao)**
-> **I am creating [selfbots](https://github.com/ksIsCute/DestroyerSelfbot), [tutorials](https://github.com/ksIsCute/SelfbotTesting), [discord tools](https://github.com/ksIsCute/EmbedMassDM) and [discord bots](https://mechadiscord.tk)**
+> **I am creating [tutorials](https://github.com/ksIsCute/discordrb), [discord tools](https://github.com/ksIsCute/Snippet-Central) and [discord bots](https://mechadiscord.tk)**
 ## Need To Contact Me?:
 ![My Alt](https://dcbadge.vercel.app/api/shield/940289135074238594?theme=discord&logoColor=orange)
 ![My Bot](https://dcbadge.vercel.app/api/shield/bot/930821149644963900?theme=discord&logoColor=red)
