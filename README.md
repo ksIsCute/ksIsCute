@@ -1,4 +1,5 @@
 [![Ks GitHub stats](https://github-readme-stats.vercel.app/api?username=ksIsCute&theme=synthwave)](https://github.com/ksiscute)
+[![](https://github.com/ksIsCute/ksIsCute/blob/main/github-metrics.svg)](https://github.com/ksIsCute)
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=ksIsCute&langs_count=10&theme=synthwave)](https://github.com/ksiscute)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ksIsCute)](https://github.com/ryo-ma/github-profile-trophy)
 ## I am a mainly python developer creating with discord.py's API.
