@@ -4,7 +4,7 @@
 ## I am a mainly python developer creating with discord.py's API.
 ## About Me:
 > **I was a lead developer for a bot called "Rocket" throughout March of 2020 - 2021 where development was discontinued. I am now working on a bot called [Mecha](https://mechadiscord.tk)**
-> **I now code discord selfbots with a custom one coming out soon.**
+> **I now code discord bots with a new one in the making (Mecha).**
 > **I used to work on websites with a man called King Of Quaccers, who I was very close with until my account was disabled.**
 > **I am a Canadian developer from Ontario.**
 ## What I do:
